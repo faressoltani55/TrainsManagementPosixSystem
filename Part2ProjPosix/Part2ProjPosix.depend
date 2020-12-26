@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606657226 source:c:\users\fares\codeblocks projects\part2projposix\main.c
+	<time.h>
+	<pthread.h>
+	<semaphore.h>
+	<stdlib.h>
+
